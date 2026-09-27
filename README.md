@@ -1,3 +1,5 @@
+https://gitashish-tech.github.io/gitashish-tech-Portfolio/
+
 # Ashish Gade — Portfolio
 
 A premium, 3D, cybersecurity-themed personal portfolio built with plain HTML/CSS/JS, **Three.js** (hero shield + SOC globe), **GSAP + ScrollTrigger** (scroll reveals, timeline progress), and **Lenis** (smooth scrolling).
